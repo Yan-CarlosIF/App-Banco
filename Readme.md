@@ -4,7 +4,7 @@
 
 ### Tecnologias
 - Typescript
-- <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" width="50" />
 
 ### Como rodar o projeto
 
