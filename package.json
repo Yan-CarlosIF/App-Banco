@@ -1,6 +1,6 @@
 {
   "scripts": { 
-    "dev": "ts-node-dev --respawn --transpile-only app.ts" 
+    "dev": "ts-node-dev --respawn --transpile-only ts/app.ts" 
   },
   "devDependencies": {
     "ts-node-dev": "^2.0.0",
